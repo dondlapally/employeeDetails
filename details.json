@@ -1,0 +1,273 @@
+[{
+	"_id": {
+		"$oid": "5bbd9ff814b6df46432bbaa4"
+	},
+	"name": "mike",
+	"gender": "male",
+	"age": 26.0,
+	"place": "sydney",
+	"employeeInfo": {
+		"id": 1020.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "1-01-2001",
+		"salary": 50000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaa5"
+	},
+	"name": "Ron",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1026.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "8-01-2001",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaa6"
+	},
+	"name": "Harry",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1038.0,
+		"dept": "development",
+		"TeamLead": "Tommy",
+		"loginDate": "1-05-2001",
+		"salary": 59000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaa7"
+	},
+	"name": "micky",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1020.0,
+		"dept": "development",
+		"TeamLead": "Tommy",
+		"loginDate": "1-02-2002",
+		"salary": 52000.0,
+		"pf": 53000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaa8"
+	},
+	"name": "Harry",
+	"gender": "male",
+	"age": 26.0,
+	"place": "sydney",
+	"employeeInfo": {
+		"id": 1020.0,
+		"dept": "development",
+		"TeamLead": "sammy",
+		"loginDate": "1-01-2001",
+		"salary": 53000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaa9"
+	},
+	"name": "Henry",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1020.0,
+		"dept": "development",
+		"TeamLead": "sammy",
+		"loginDate": "1-01-2001",
+		"salary": 53000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaaa"
+	},
+	"name": "hazel",
+	"gender": "female",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1020.0,
+		"dept": "development",
+		"TeamLead": "sammy",
+		"loginDate": -2001.0,
+		"salary": 53000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaab"
+	},
+	"name": "Meghan",
+	"gender": "female",
+	"age": 24.0,
+	"place": "sydney",
+	"employeeInfo": {
+		"id": 1024.0,
+		"dept": "development",
+		"TeamLead": "sammy",
+		"loginDate": "1-02-2001",
+		"salary": 53000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaac"
+	},
+	"name": "Hannah",
+	"gender": "female",
+	"age": 29.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1039.0,
+		"dept": "research",
+		"TeamLead": "sammy",
+		"loginDate": "20-01-2001",
+		"salary": 53000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda68714b6df46432bbaad"
+	},
+	"name": "jack",
+	"gender": "male",
+	"age": 29.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1231.0,
+		"dept": "research",
+		"TeamLead": "sammy",
+		"loginDate": "30-01-2001",
+		"salary": 59000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda7b214b6df46432bbaae"
+	},
+	"name": "nancy",
+	"gender": "female",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1026.0,
+		"dept": "development",
+		"TeamLead": "sammy",
+		"loginDate": "9-01-2006",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda7b214b6df46432bbaaf"
+	},
+	"name": "rez",
+	"gender": "male",
+	"age": 26.0,
+	"place": "sydney",
+	"employeeInfo": {
+		"id": 1026.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "8-09-2001",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda7b214b6df46432bbab0"
+	},
+	"name": "rachel",
+	"gender": "female",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1026.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "8-01-2001",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda9b214b6df46432bbab1"
+	},
+	"name": "adverd",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1123.0,
+		"dept": "reasearch",
+		"TeamLead": "sammy",
+		"loginDate": "9-01-2004",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda9b214b6df46432bbab2"
+	},
+	"name": "bella",
+	"gender": "female",
+	"age": 26.0,
+	"place": "sydney",
+	"employeeInfo": {
+		"id": 1234.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "8-09-1999",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+},
+{
+	"_id": {
+		"$oid": "5bbda9b214b6df46432bbab3"
+	},
+	"name": "jacob",
+	"gender": "male",
+	"age": 26.0,
+	"place": "melbourne",
+	"employeeInfo": {
+		"id": 1026.0,
+		"dept": "development",
+		"TeamLead": "tommy",
+		"loginDate": "8-01-1999",
+		"salary": 52000.0,
+		"pf": 20000.0
+	}
+}]
+
